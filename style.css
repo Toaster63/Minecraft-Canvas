@@ -1,0 +1,55 @@
+.body_backgorund 
+{
+    background-image: url("https://www.minecraft.net/content/dam/games/minecraft/key-art/MC-Vanilla_Updates-Carousel_CandC-Part-I_800x450.jpg");
+    
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+#title
+{
+	border-radius: 10px;
+	font-family: "Notable", sans-serif;
+	font-size: 100px;
+	padding: 5px;
+ }
+#current_width
+{
+	font-family: "Notable", sans-serif;
+	display: inline-block;
+	
+}
+#current_height
+{
+	font-family: "Notable", sans-serif;
+	display: inline-block;
+	
+}
+#width, #height{
+	font-family: "Notable", sans-serif;
+	display: inline-block;
+	background-color: red;
+	border-radius: 10px;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
